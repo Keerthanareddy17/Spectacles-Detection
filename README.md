@@ -49,6 +49,8 @@ To build a **compact yet accurate glasses detection model** using deep learning 
 - Consistent performance across batch and real-world inferences
 
 <img width="704" alt="Screenshot 2025-04-29 at 3 13 12 PM" src="https://github.com/user-attachments/assets/0127d866-efca-4dfc-a13e-e6993b0196c5" />
+
+
 <img width="1278" alt="Screenshot 2025-04-29 at 3 40 13 PM" src="https://github.com/user-attachments/assets/aac00a5f-88a8-4290-bdcb-16f5223dff6a" />
 
 ---
